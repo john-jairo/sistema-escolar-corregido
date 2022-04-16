@@ -1,0 +1,26 @@
+tres notas:
+nota academica 60%
+nota disciplina 20%
+nota evaluacion 20%
+
+4 periodos y 1 de recuperacion con nota 34 o sale vacio. 
+1,2,3,4 periodo nota del periodo y el promedio de los periodos 
+
+lista para calificaciones 
+
+alumnos 
+solo descargar boletin 
+
+crer tabla acudientes 
+
+alumnos con foto
+
+https://www.colegioacoinprev.edu.co/web/inscripcionwebPC.php
+
+pre registro
+
+alumnos antiguos 
+
+actualizar informacion y subir documentos requeridos 
+
+
